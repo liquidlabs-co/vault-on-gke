@@ -10,6 +10,9 @@ instead of teaching you them individually. If you would like to know how to
 provision HashiCorp Vault on Kuberenetes step-by-step (aka "the hard way"),
 please follow Kelsey's repository instead.
 
+**These configurations require Terraform 0.12+!** For support with Terraform
+0.11, please use the git tag v0.1.2 series.
+
 
 ## Feature Highlights
 
